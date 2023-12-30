@@ -1,4 +1,6 @@
-# [Ukraine War Analysis Project](https://ua-ru-vehicle-losses.streamlit.app/)
+# Ukraine War Analysis
+### [Link](https://ua-ru-vehicle-losses.streamlit.app/) 
+> **Disclaimer:** For the best experience, use Chrome browser.
 
 ## Authors
 - [**Alan Mackiewicz**](https://github.com/AlanM03)
