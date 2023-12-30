@@ -1,4 +1,11 @@
-# On Russia's invasion of Ukraine
+# [Ukraine War Analysis Project](https://ua-ru-vehicle-losses.streamlit.app/)
+
+## Authors
+- [**Alan Mackiewicz**](https://github.com/AlanM03)
+- [**Ze Hong Wu**](https://github.com/JasonWu00)
+- [**Jin Lin**](https://github.com/JinLin6398)
+
+
 
 When was the last time you thought about the war[^1] in Ukraine?
 
